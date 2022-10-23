@@ -1,6 +1,6 @@
 # week-5-assignment
 1. MVVM mimarisine uygun olacak şekilde Users sayfası için, UserService
-yazılıp, userslerin çekilmes.
+yazılıp, userslerin çekilmesi.
 2. Users için UserModule adında bir dipency injection modulu
 oluşturulması.
 3. Post Detail ekranının yapılması. Bu Post detail ekranı APi servise ile
